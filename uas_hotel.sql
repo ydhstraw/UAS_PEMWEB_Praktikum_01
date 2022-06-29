@@ -46,7 +46,7 @@ CREATE TABLE `bookings` (
 
 INSERT INTO `bookings` (`id`, `id_user`, `id_hotel`, `name`, `email`, `room`, `price`, `phone_number`, `check_in`, `check_out`) VALUES
 (1, 2, 6, 'Norbertus Dewa Rucci', 'norbertus@gmail.com', 1, 1200000, '0123456789', '2021-06-01', '2021-06-03'),
-(2, 5, 7, 'Yudhistira Aremaputra Wardhana', 'yudhistira.wardhana@gmail.com', 3, 9801000, '089636839401', '2021-06-10', '2021-06-12'),
+(2, 5, 7, 'Yudhistira Aremaputra Wardhana', 'yudhistira@gmail.com', 3, 9801000, '0896723627', '2021-06-10', '2021-06-12'),
 (3, 6, 1, 'Arcriles', 'arcrilest@outlook.com', 1, 65098000, '3254900', '2021-06-10', '2021-06-30'),
 (4, 8, 1, 'Islatoen', 'isla@gmail.com', 3, 19529400, '0896767323', '2021-06-13', '2021-06-15'),
 (5, 3, 1, 'Norbertus Dewa Rucci', 'norbertus@gmail.com', 1, 6509800, '0123456', '2021-06-08', '2021-06-10'),
